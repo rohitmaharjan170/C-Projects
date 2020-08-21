@@ -1,0 +1,58 @@
+//Rextester.Program.Main is the entry point for your code. Don't change it.
+//Microsoft (R) Visual C# Compiler version 2.9.0.63208 (958f2354)
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Gender_Hello
+{
+    
+    public class Rohit{
+       public char gender;
+        
+        public Rohit(){  // constructor Rohit
+            gender = 'M';
+        }               // end of constructor Rohit
+        
+        
+        string surname = "Maharjan";    // instantnous variable
+        
+        public void showGender(){
+        Console.WriteLine(gender);
+        }
+        
+        public void showOutput(){     // method showOutput
+       // Console.WriteLine(gender);
+            Console.WriteLine(surname);
+        } // end of show output
+        
+        } // end of Class ROhit
+    
+
+
+
+
+    public class Program               // main
+    {
+        public static void Main(string[] args)
+        {
+            
+                        new Rohit().showOutput();              // mehotd 2 of calling the show OUrput vut the instance object is no longer reusalbe
+
+          
+            Rohit roh = new Rohit();
+            
+            Console.WriteLine(roh.gender);
+            
+            roh.gender = 'L';
+            roh.showGender();
+            
+            new Rohit().showGender();  // kina bhane naya instance ma ocnstructor le gender m bhanai dinxa tei bhanera outout m aaunxa not L
+          
+            
+           // Console.WriteLine(rohit.gender);
+        }
+    }
+}

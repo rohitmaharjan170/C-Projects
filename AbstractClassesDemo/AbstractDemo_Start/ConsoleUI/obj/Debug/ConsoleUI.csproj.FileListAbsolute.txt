@@ -1,0 +1,10 @@
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\rmaha\Downloads\AbstractClassesDemo\AbstractDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.pdb

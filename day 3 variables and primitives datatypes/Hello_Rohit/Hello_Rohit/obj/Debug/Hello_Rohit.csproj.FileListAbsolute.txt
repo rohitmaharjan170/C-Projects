@@ -1,0 +1,7 @@
+F:\c# .net\day 3 variables and primitives datatypes\Hello_Rohit\Hello_Rohit\bin\Debug\Hello_Rohit.exe.config
+F:\c# .net\day 3 variables and primitives datatypes\Hello_Rohit\Hello_Rohit\bin\Debug\Hello_Rohit.exe
+F:\c# .net\day 3 variables and primitives datatypes\Hello_Rohit\Hello_Rohit\bin\Debug\Hello_Rohit.pdb
+F:\c# .net\day 3 variables and primitives datatypes\Hello_Rohit\Hello_Rohit\obj\Debug\Hello_Rohit.csprojAssemblyReference.cache
+F:\c# .net\day 3 variables and primitives datatypes\Hello_Rohit\Hello_Rohit\obj\Debug\Hello_Rohit.csproj.CoreCompileInputs.cache
+F:\c# .net\day 3 variables and primitives datatypes\Hello_Rohit\Hello_Rohit\obj\Debug\Hello_Rohit.exe
+F:\c# .net\day 3 variables and primitives datatypes\Hello_Rohit\Hello_Rohit\obj\Debug\Hello_Rohit.pdb
