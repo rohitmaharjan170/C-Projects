@@ -1,0 +1,7 @@
+F:\C-Sharp-Projects\algorith to add array\addArray\addArray\bin\Debug\addArray.exe.config
+F:\C-Sharp-Projects\algorith to add array\addArray\addArray\bin\Debug\addArray.exe
+F:\C-Sharp-Projects\algorith to add array\addArray\addArray\bin\Debug\addArray.pdb
+F:\C-Sharp-Projects\algorith to add array\addArray\addArray\obj\Debug\addArray.csprojAssemblyReference.cache
+F:\C-Sharp-Projects\algorith to add array\addArray\addArray\obj\Debug\addArray.csproj.CoreCompileInputs.cache
+F:\C-Sharp-Projects\algorith to add array\addArray\addArray\obj\Debug\addArray.exe
+F:\C-Sharp-Projects\algorith to add array\addArray\addArray\obj\Debug\addArray.pdb
